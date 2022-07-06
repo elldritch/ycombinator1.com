@@ -1,4 +1,6 @@
 # news.ycombinator1.com
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Felldritch%2Fycombinator1.com.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Felldritch%2Fycombinator1.com?ref=badge_shield)
+
 
 Lets you add a character to [Hacker News](https://news.ycombinator.com) links to add social media and OpenGraph previews for sharing on things like Slack or Discord or Twitter or Teams.
 
@@ -21,3 +23,7 @@ On Twitter you'll see:
 <img width="586" alt="CleanShot 2022-02-01 at 22 56 06@2x" src="https://user-images.githubusercontent.com/137158/152107766-42a4f926-ee66-4d85-b48a-af14c1fb1c44.png">
 
 Powered by [Vercel](https://vercel.com/) and the [Hacker News API](https://github.com/HackerNews/API)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Felldritch%2Fycombinator1.com.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Felldritch%2Fycombinator1.com?ref=badge_large)
